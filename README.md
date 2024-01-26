@@ -3,7 +3,7 @@
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;vuejs+for+life">
-    <h3 align="center">Love JS, love writing dev articles, and sharing my knowledge.</h3>
+  
     <h3 align="center">I'm a web developer.</h3>
 </p>
 
